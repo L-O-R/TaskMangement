@@ -1,0 +1,18 @@
+:root {
+    --background-color: #1A1A1A;
+    --text-color: #CCCCCC;
+  
+    --primary-font: 'Roboto', sans-serif;
+    --secondary-font: 'Playfair Display', serif;
+  
+    --heading-color: #AAAAAA;
+    --subheading-color: #999999;
+    --paragraph-color: #CCCCCC;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--primary-font);
+  }
+  
